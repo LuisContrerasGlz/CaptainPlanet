@@ -5,3 +5,5 @@
 ### Information
 
 * Changing poweers to Captain Planet using jQuery
+
+Link to GitHub Pages: https://luiscontrerasglz.github.io/CaptainPlanet/
